@@ -102,14 +102,17 @@ The following steps were carried out:
 
 
 
-FUTURE_DS_03/
+FUTURE\_DS\_03/
 │
-├── College_Event_Feedback_Analysis.ipynb
-├── Student_Satisfaction_Survey.csv
+├── College\_Event\_Feedback\_Analysis.ipynb
+├── Student\_Satisfaction\_Survey.csv
 ├── Screenshots/
-│   ├── satisfaction_analysis.png
-│   └── strengths_and_improvements.png
+│   ├── satisfaction\_analysis.png
+│   └── strengths\_and\_improvements.png
 └── README.md
+
+
+
 
 
 
